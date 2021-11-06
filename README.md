@@ -31,6 +31,20 @@ Ajax , jwt 토큰을 이용해 로그인 기능과 회원가입기능을 구현�
 
 <br/>
 
+
+## DB 설계
+
+<img src="https://user-images.githubusercontent.com/70641418/140592016-52c12be5-aead-4f29-81dd-6061a7388ab8.JPG" style="width: 500px;">
+
+<br/>
+
+
+## API 설계
+
+<img src="https://user-images.githubusercontent.com/70641418/140592117-db48abe5-3f7d-45f0-bf66-f1583b678f46.png" style="width: 500px;">
+
+<br/>
+
 ## 구현 기능 🛠
 **1.로그인페이지**
 
